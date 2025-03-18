@@ -1,0 +1,6 @@
+tensorflow==2.10.1
+opencv-contrib-python==4.11.0.86
+numpy==1.26.4
+fastapi==0.115.11
+uvicorn==0.34.0
+gtts==2.5.4
