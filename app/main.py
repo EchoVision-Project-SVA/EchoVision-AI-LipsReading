@@ -1,5 +1,6 @@
 from app.api import router as api_router
 from fastapi.staticfiles import StaticFiles
+from fastapi import FastAPI
 
 app = FastAPI(title="Lipreading API")
 

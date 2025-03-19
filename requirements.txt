@@ -4,3 +4,4 @@ numpy==1.26.4
 fastapi==0.115.11
 uvicorn==0.34.0
 pyttsx3==2.98
+python-multipart==0.0.20
