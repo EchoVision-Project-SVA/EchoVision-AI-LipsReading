@@ -1,8 +1,5 @@
-from fastapi import FastAPI, Request
-from fastapi.responses import JSONResponse
 from app.api import router as api_router
 from fastapi.staticfiles import StaticFiles
-import traceback
 
 app = FastAPI(title="Lipreading API")
 
